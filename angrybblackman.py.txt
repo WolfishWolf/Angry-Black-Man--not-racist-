@@ -1,0 +1,12 @@
+type = raw_input("What you want, nigga?")
+
+favor = type.lower()
+
+if favor == "tell me a story":
+    print "The black fellow bellows angrily  'WHAT, NIGGA, I AIN'T TELLING YOU NO MOTHERFUCKING BEDTIME STORY'"
+
+elif favor == "fuck you":
+    print (" FUCK ME? FUCK YOU, YOU CRACKA ASS BITCH.")
+
+else:
+    print "Please ask the black man to do something he understands. I.E. ask him to you you a story, or say Fuck you to him."
